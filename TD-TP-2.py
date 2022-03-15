@@ -5,7 +5,7 @@ Created on Wed Mar  2 11:00:47 2022
 
 @author: adri22
 """
-"Bonjour à tous ! "
+"je suis la "
 
 #exercice 1
 
